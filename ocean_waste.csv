@@ -1,0 +1,9 @@
+Location,Latitude,Longitude,Waste_Type,Quantity,Area_Type,Pollution_Level
+Mumbai,19.0760,72.8777,plastic,80,coastal,high
+Goa,15.2993,74.1240,glass,30,tourist,medium
+Chennai,13.0827,80.2707,plastic,90,coastal,high
+Kerala,10.8505,76.2711,organic,40,fishing,low
+Vizag,17.6868,83.2185,metal,60,industrial,medium
+Kolkata,22.5726,88.3639,plastic,85,industrial,high
+Andaman,11.7401,92.6586,organic,20,coastal,low
+Puri,19.8135,85.8312,plastic,70,tourist,medium
