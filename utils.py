@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 
 def load_data():
-    df = pd.read_csv("data/ocean_waste.csv")
+    df = pd.read_csv("ocean_waste.csv")
 
     le_waste = LabelEncoder()
     le_area = LabelEncoder()
